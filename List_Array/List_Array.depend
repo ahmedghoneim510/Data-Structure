@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1670957663 source:c:\users\hp\desktop\prog\task luminous\list_array\main.c
+	<stdio.h>
+	<stdlib.h>
+	"global.h"
+
+1670956398 c:\users\hp\desktop\prog\task luminous\list_array\global.h
+
